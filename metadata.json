@@ -1,0 +1,6 @@
+{
+  "name": "Job - Nền Tảng Tuyển Dụng & Việc Làm",
+  "description": "Nền tảng tìm kiếm việc làm, tạo hồ sơ năng lực cá nhân, ứng tuyển trực tuyến và theo dõi hồ sơ dành cho sinh viên và người tìm việc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
