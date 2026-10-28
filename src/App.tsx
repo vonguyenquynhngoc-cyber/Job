@@ -16,7 +16,6 @@ import {
   Lock,
   Crown,
   LogOut
-  ArrowLeftRight
 } from 'lucide-react';
 import { Job, CandidateProfile, Application, ActiveTab, ApplicationStatus, UserAccount, UserRole } from './types';
 import { INITIAL_JOBS } from './data/initialJobs';
